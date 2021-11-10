@@ -9,7 +9,6 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": "^7.3 || ^8.0",
-        "cwp/cwp": "^2",
         "silverstripe/framework": "^4.10",
         "symbiote/silverstripe-gridfieldextensions": "^3.1"
     },
